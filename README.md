@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://www.google.com/imgres?q=cool%20coder%20images&imgurl=https%3A%2F%2Fimages.stockcake.com%2Fpublic%2F4%2F7%2Fb%2F47b76cb0-8a9c-4d1e-88c0-826385e9183d_large%2Fcoder-at-work-stockcake.jpg&imgrefurl=https%3A%2F%2Fstockcake.com%2Fi%2Fcoder-at-work_1164043_1069849&docid=D5LhG_m_q-O91M&tbnid=9e6MVbNzmf1SNM&vet=12ahUKEwjFodKD2vuPAxWvSWwGHa1dL14QM3oECBcQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwjFodKD2vuPAxWvSWwGHa1dL14QM3oECBcQAA)" width="400">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjBhOXNteXJkNWkyd2Q2emdldGE0Y2R0d205MTN6dG83ZXNtamcyYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WPtzThAErhBG5oXLeS/giphy.gif" width="400">
 </p>
 
 ## ⚡ Skills
@@ -23,7 +23,7 @@
 
 ---
 <p align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyenRja3E4M3ZlOXl0dXo5MWNqNnQxYmRhMHFsejU3ZjdzNnF2bGRhMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oxHQrAmG6bd6RRh4s/200.gif)" width="400">
+  <img src="2wCEAAkGBxITEhUSExIWFRUXFRUVFRUVFRUVFRYVFxUXGBUVFxUYHSggGBolGxUVITEhJSktLi4uFx8zODMtNygtLisBCgoKDg0OGhAQGzUlICU1Ly0tLS8tLS0tLS8tLS0tLS0tLy0tLS0vLS8tLS0tLS0tLS0tLy0tLS0tLS0tLS0tLf" width="400">
 </p>
 
 
