@@ -1,43 +1,125 @@
-# Hi there, I'm Abhishek 👋
+# Hi, I'm Abhishek Kumar 👋
 
-💻 **Computer Science Student | AI & ML Enthusiast | Aspiring Googler**
+### B.Tech CSE (AI) Student @ Newton School of Technology, Rishihood University
 
-🌱 Currently learning:
-- C++, Python, Web Development
-- Artificial Intelligence & Machine Learning
-- Data Structures & Algorithms
-
-📚 Studying at **Newton School of Technology** (Sonipat, Delhi NCR)  
-🎯 Goal: Work at **Google India**
+I am a second-year Computer Science student passionate about Software Engineering, Full-Stack Development, Artificial Intelligence, and Problem Solving. I enjoy building products that solve real-world problems and continuously improving my skills through projects and Data Structures & Algorithms.
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjBhOXNteXJkNWkyd2Q2emdldGE0Y2R0d205MTN6dG83ZXNtamcyYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WPtzThAErhBG5oXLeS/giphy.gif" width="400">
-</p>
+## 🚀 Currently Working On
 
-## ⚡ Skills
-- Programming: C++, Python, JavaScript
-- Web: HTML, CSS, React.js
-- Tools: Git, GitHub, VS Code
-
----
-<p align="center">
-  <img src="2wCEAAkGBxITEhUSExIWFRUXFRUVFRUVFRUVFRYVFxUXGBUVFxUYHSggGBolGxUVITEhJSktLi4uFx8zODMtNygtLisBCgoKDg0OGhAQGzUlICU1Ly0tLS8tLS0tLS8tLS0tLS0tLy0tLS0vLS8tLS0tLS0tLS0tLy0tLS0tLS0tLS0tLf" width="400">
-</p>
-
-
-## 📈 GitHub Stats
-![Abhishek's GitHub stats](https://github.com/abhishekkumar06-tech)
+* Learning Data Structures & Algorithms
+* Exploring Full-Stack Web Development
+* Building React-based applications
+* Learning AI and Machine Learning concepts
+* Improving problem-solving skills through competitive programming
 
 ---
 
+## 💻 Tech Stack
 
+### Languages
 
-## 🌐 Connect with me
-- 📸 Instagram: n.abhishek_kumar
-- 💼 LinkedIn: www.linkedin.com/in/abhishek-kumar-a58a5937a
-- ✉️ Email: abhinabhishekkumar@gmail.com
+* C++
+* Python
+* JavaScript
+* HTML
+* CSS
+
+### Frontend
+
+* React.js
+* Tailwind CSS
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
 
 ---
-⭐️ From N Abhishek Kumar
+
+## 📚 DSA Progress
+
+* 135+ Problems Solved on Codeforces
+* 55+ Problems Solved on LeetCode
+* Current Codeforces Rating: 882
+* Current LeetCode Rating: 1370
+
+### Topics Covered
+
+* Arrays
+* Strings
+* Sorting
+* Binary Search
+* Recursion
+* Hashing
+* Linked Lists
+* Stacks
+* Queues
+* Two Pointers
+* Binary Trees
+
+---
+
+## 🛠 Featured Projects
+
+### Anime Character Explorer
+
+A web application for exploring anime characters and related information.
+
+### Healify
+
+A healthcare-focused web project.
+
+🔗 Live Demo:
+https://abhishekkumar06-tech.github.io/Healify/index.html
+
+### Newton School Website Clone
+
+A responsive website inspired by Newton School.
+
+### Tic Tac Toe
+
+A classic game built using JavaScript.
+
+### Netflix Clone
+
+Frontend clone project built for learning modern web development concepts.
+
+---
+
+## 🎯 Areas of Interest
+
+* Software Engineering
+* Artificial Intelligence & Machine Learning
+* Full-Stack Development
+* Backend Development
+* Frontend Development
+
+---
+
+## 📈 Current Goals
+
+* Reach 300+ LeetCode problems
+* Become a Specialist on Codeforces
+* Build production-grade full-stack applications
+* Contribute to open source projects
+* Strengthen backend development skills
+
+---
+
+## 🌐 Connect With Me
+
+LinkedIn:
+[www.linkedin.com/in/abhishek-kumar-a58a5937a/](http://www.linkedin.com/in/abhishek-kumar-a58a5937a/)
+
+GitHub:
+github.com/abhishekkumar06-tech
+
+Email:
+[abhinabhishekkumar@gmail.com](mailto:abhinabhishekkumar@gmail.com)
+
+---
+
+⭐ Always learning, building, and improving.
